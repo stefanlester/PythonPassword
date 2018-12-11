@@ -1,6 +1,6 @@
 #adopted from: https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
 
-import bcrypt #pip install bcyrpt
+import bcrypt #pip install bcyrptbandi
 import hmac
 
 
